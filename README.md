@@ -29,11 +29,10 @@ Using zenity with python powered parsing the standard Google Maps location struc
 
 ## Dependencies
 
-</style>
 </head>
 
 <body dir="ltr" style="max-width:8.5in;margin-top:0.7874in; margin-bottom:0.7874in; margin-left:0.7874in; margin-right:0.7874in; ">
-<p class="paragraph-P1"> </p><h2 class="paragraph-P2"><a id="a__Required_Dependencies"><span/></a>Required Dependencies</h2>
+<p class="paragraph-P1"> </p><h2 class="paragraph-P2"><a id=""><span/></a></h2>
 
 
 <table border="0" cellspacing="0" cellpadding="0" class="table-Table1"><colgroup><col width="173"/><col width="293"/><col width="303"/></colgroup><tr class="row-Table1_1"><td style="text-align:left;width:1.5576in; " class="cell-Table1_A1">
