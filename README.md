@@ -222,8 +222,8 @@ Using zenity with python powered parsing the standard Google Maps location struc
 ## How To Use
 
 #### Installation
-Open terminal (Ctrl+Alt+T)
-chmod +x /path/to/Bravemaps.sh
+Open terminal (Ctrl+Alt+T)\
+chmod +x /path/to/Bravemaps.sh\
 ./Bravemaps.sh
 
 [Back To The Top](#read-me-template)
