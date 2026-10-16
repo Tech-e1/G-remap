@@ -230,6 +230,9 @@ chmod +x /path/to/Bravemaps.sh\
 ---
 
 ## References
+
+If you have a chromium based browser you can simply use the extension is my sister repo 'G-remapExt'
+
 [Back To The Top](#read-me-template)
 
 ---
